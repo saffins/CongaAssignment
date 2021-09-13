@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">	
+
+<suite name="Conga Assignment">       
+  <test name="Conga">
+	 <classes>
+	   <class name="com.test.Scenario1"/>
+	   <class name="com.test.Scenario3"/>
+	 </classes>
+   </test>
+</suite>
