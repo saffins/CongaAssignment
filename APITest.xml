@@ -2,11 +2,9 @@
 
 <suite name="Conga Assignment">       
   <test name="Conga">
-  <parameter name='browser' value='chrome'>
-  </parameter>
+ 
 	 <classes>
-	   <class name="com.test.Scenario1"/>
-	   <class name="com.test.Scenario3"/>
+ 	   <class name="com.test.Scenario3"/>
 	 </classes>
    </test>
 </suite>
