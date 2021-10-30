@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">	
+
+<suite name="Conga Assignment">       
+  <test name="Conga">
+  <parameter name='browser' value='chrome'>
+  </parameter>
+	 <classes>
+	   <class name="com.test.Scenario1"/>
+ 	 </classes>
+   </test>
+</suite>
